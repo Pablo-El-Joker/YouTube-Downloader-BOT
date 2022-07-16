@@ -1,0 +1,20 @@
+{
+  "name": "telegram-song-downloader-bot",
+  "description": "YouTube Music Downloader Bot for Telegram. ",
+	"stack": "container",
+  "repository": "https://github.com/Pablo-El-Joker/YouTube-Downloader-BOT",
+  "keywords": [
+  "python",
+  "chatbot",
+  "telegrambot"
+  ],
+  "website": "https://github.com/Pablo-El-Joker/YouTube-Downloader-BOT",
+  "success_url": "http://t.me/YouTube11_11Bot",
+  "env": {
+    "TOKEN": {
+      "description": "توكن بوتك يا كلب",
+      "value": "",
+      "required": true
+    }
+  }
+}
